@@ -17,7 +17,7 @@ Currently building projects to improve my skills and gain real-world experience.
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=patihpyyt&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=patihpyyt&theme=buefy&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-readme-stats.vercel.app/api?username=username_kamu&show_icons=true&locale=en&cache_seconds=1800)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
