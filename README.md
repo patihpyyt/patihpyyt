@@ -18,6 +18,7 @@ Passionate about transforming ideas into interactive web experiences. Currently 
 ![](https://nirzak-streak-stats.vercel.app/?user=patihpyyt&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=patihpyyt&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact&cache_seconds=1800&hide=html,css)
 
+![](https://github-readme-stats.vercel.app/api?username=patihpyyt&theme=tokyonight&show_icons=true)
 ## 🏆 GitHub Trophies
 ![](https://github-readme-stats.vercel.app/api?username=patihpyyt&show_icons=true&locale=en&cache_seconds=1800)
 
@@ -31,3 +32,6 @@ Passionate about transforming ideas into interactive web experiences. Currently 
 [![](https://visitcount.itsvg.in/api?id=patihpyyt&icon=9&color=11)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=120&section=header&text=Contribution%20Activity&theme=dark" />
+</p>
