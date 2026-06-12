@@ -14,7 +14,7 @@ Currently building projects to improve my skills and gain real-world experience.
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=patihpyyt&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=patihpyyt&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=patihpyyt&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact&cache_seconds=1800)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=patihpyyt&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact&cache_seconds=1800&hide=html,css)
 
 ## 🏆 GitHub Trophies
 ![](https://github-readme-stats.vercel.app/api?username=patihpyyt&show_icons=true&locale=en&cache_seconds=1800)
