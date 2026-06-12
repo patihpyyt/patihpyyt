@@ -71,5 +71,5 @@ Passionate about transforming ideas into interactive web experiences. Currently 
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=patihpyyt&theme=react&area=true&hide_border=false" alt="Pacman Contribution" />
+  <img src="https://github-readme-pacman.vercel.app/api/pacman?username=patihpyyt&theme=tokyonight" alt="GitHub Readme Pacman" />
 </p>
