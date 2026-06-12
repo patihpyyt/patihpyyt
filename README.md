@@ -1,6 +1,8 @@
 # 💫 About Me:
-Hi 👋 I'm a Frontend Developer in progress  
-Currently building projects to improve my skills and gain real-world experience.
+Hi 👋, I'm M. Iqbal Fatih
+Frontend Developer in the making. 🚀
+
+Passionate about transforming ideas into interactive web experiences. Currently developing responsive projects to level up my engineering skills and prepare for real-world challenges.
 
 
 
