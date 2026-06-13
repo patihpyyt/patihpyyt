@@ -16,8 +16,12 @@ jobs:
     timeout-minutes: 5
     
     steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v3
+
+      # Pake versi v3 murni biar gak kena error canvas sialan kemarin
       - name: generate github-contribution-grid-snake.gif
-        uses: Platane/snk/svg-only@v3
+        uses: Platane/snk@v3
         with:
           github_user_name: patihpyyt
           outputs: |
