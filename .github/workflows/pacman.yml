@@ -9,26 +9,20 @@ on:
     - main
 
 jobs:
-  generate:
-    permissions: 
-      contents: write
+  build:
     runs-on: ubuntu-latest
-    timeout-minutes: 5
-    
     steps:
       - name: Checkout Repository
         uses: actions/checkout@v3
 
-      # Menggunakan argument '--type=pacman' untuk merubah total karakter menjadi Pacman asli
-      - name: generate github-contribution-grid-snake.gif
-        uses: Platane/snk@v3
+      # Bot khusus yang beneran ngerender karakter Pacman & Hantu asli
+      - name: GitHub Readme Pacman
+        uses: jayphelps/github-readme-pacman@v1.2.0
         with:
           github_user_name: patihpyyt
-          outputs: |
-            dist/github-contribution-grid-snake.gif?palette=github-dark&type=pacman
-            dist/github-contribution-grid-snake-dark.gif?palette=github-dark&type=pacman
-            
-      - name: push github-contribution-grid-snake.gif to the output branch
+          output: dist/github-readme-pacman.gif
+
+      - name: Push Pacman GIF to Output Branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
