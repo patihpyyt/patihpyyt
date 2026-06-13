@@ -60,7 +60,7 @@ Passionate about transforming ideas into interactive web experiences. Currently 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=patihpyyt&theme=tokyonight&show_icons=true&hide_border=false" alt="GitHub Stats" />
   <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=patihpyyt&theme=tokyonight&hide_border=false&layout=compact&cache_seconds=1800" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=patihpyyt&theme=tokyonight&hide_border=false&layout=compact&cache_seconds=1800&hide=html,css,javascript,jupyter%20notebook" alt="Top Languages" />
 </p>
 
 ---
