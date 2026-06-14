@@ -2,15 +2,13 @@ name: Generate arcade animation
 
 on:
   schedule:
-    # FIX: Mengubah '* */12 * * *' menjadi '0 */12 * * *' 
-    # Karena kalau pakai tanda bintang di depan, bot-nya bakal jalan TIAP MENIT selama 12 jam (bisa di-banned GitHub!)
     - cron: "0 */12 * * *"
 
   workflow_dispatch:
 
   push:
     branches:
-    - main
+      - main
 
 jobs:
   generate:
@@ -20,17 +18,22 @@ jobs:
     timeout-minutes: 20
 
     steps:
-      # Langkah wajib buat ngintip repositori lu
+      # 1. Langkah wajib biar robot bisa akses repositori lu
       - name: Checkout Repository
         uses: actions/checkout@v3
 
+      # 2. Bikin folder penampung secara otomatis biar robotnya gak crash
+      - name: Create output directory
+        run: mkdir -p github-contribution-wall
+
+      # 3. Jalankan generator Pacman murni bawaan temen lu
       - name: generate pacman-contribution-graph.svg
         uses: abozanona/pacman-contribution-graph@main
         with:
           github_user_name: patihpyyt
           games: 'pacman'
 
-      # FIX: Memastikan robot nge-push file SVG Pacman yang bener ke branch output
+      # 4. Push hasilnya ke branch khusus pacman-output
       - name: push pacman-contribution-graph.svg to the output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
