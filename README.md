@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/patihpyyt/patihpyyt/pacman-output/pacman.svg" alt="GitHub Readme Pacman" />
-</p>
 
 <h1 align="center">Hey 👋 What's Up?</h1>
 
@@ -78,4 +75,8 @@ Passionate about transforming ideas into interactive web experiences. Currently 
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/patihpyyt/patihpyyt/output/github-contribution-grid-snake.gif" alt="GitHub Contributions Grid" />
 </p>
