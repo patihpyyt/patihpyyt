@@ -1,4 +1,6 @@
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/patihpyyt/patihpyyt/pacman-output/pacman.svg" alt="GitHub Readme Pacman" />
+</p>
 
 <h1 align="center">Hey 👋 What's Up?</h1>
 
@@ -64,8 +66,9 @@ Passionate about transforming ideas into interactive web experiences. Currently 
 ---
 
 <h2 align="center">🏆 GitHub Trophies</h2>
-
-
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=patihpyyt&theme=tokyonight&column=5" alt="GitHub Trophies" />
+</p>
 
 ---
 
@@ -75,11 +78,4 @@ Passionate about transforming ideas into interactive web experiences. Currently 
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
-</p>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/patihpyyt/patihpyyt/pacman-output/github-contribution-wall/pacman.svg" alt="GitHub Readme Pacman" />
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/patihpyyt/patihpyyt/output/github-contribution-grid-snake.gif" alt="GitHub Contributions Grid" />
 </p>
