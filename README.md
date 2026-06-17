@@ -1,16 +1,16 @@
 
-<h1 align="center">Hey 👋 What's Up?</h1>
+<h1>Hey 👋 What's Up?</h1>
 
-<h3 align="center">Hi 👋, I'm M. Iqbal Fatih</h3>
-<p align="center">
+<h3>Hi 👋, I'm M. Iqbal Fatih</h3>
+<p >
 <strong>Frontend Developer in the making. 🚀</strong><br>
 Passionate about transforming ideas into interactive web experiences. Currently developing responsive projects to level up my engineering skills and prepare for real-world challenges.
 </p>
 
 ---
 
-<h2 align="center">🌐 Socials</h2>
-<p align="center">
+<h2>🌐 Socials</h2>
+<p>
   <a href="https://instagram.com/tan_boy99" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />
   </a>
@@ -62,21 +62,21 @@ Passionate about transforming ideas into interactive web experiences. Currently 
 
 ---
 
-<h2 align="center">🏆 GitHub Trophies</h2>
-<p align="center">
+<h2>🏆 GitHub Trophies</h2>
+<p >
   <img src="https://github-profile-trophy.vercel.app/?username=patihpyyt&theme=tokyonight&column=5" alt="GitHub Trophies" />
 </p>
 
 ---
 
-<p align="center">
+<p >
   <img src="https://visitcount.itsvg.in/api?id=patihpyyt&icon=9&color=11" alt="Visitor Count" />
 </p>
 
-<p align="center">
+<p >
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
 </p>
 
-<p align="center">
+<p >
   <img src="https://raw.githubusercontent.com/patihpyyt/patihpyyt/output/github-contribution-grid-snake.gif" alt="GitHub Contributions Grid" />
 </p>
