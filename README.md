@@ -21,8 +21,8 @@ Passionate about transforming ideas into interactive web experiences. Currently 
 
 ---
 
-<h2 align="center">💻 Tech Stack</h2>
-<p align="center">
+<h2 >💻 Tech Stack</h2>
+<p >
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
@@ -47,14 +47,14 @@ Passionate about transforming ideas into interactive web experiences. Currently 
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
-<div align="center">
+<div >
   <img src="https://skillicons.dev/icons?i=ts,nextjs,tailwind,graphql,go,rust,nestjs,py,figma,git&theme=dark" height="50" />
 </div>
 
 ---
 
-<h2 align="center">📊 GitHub Stats & Streak</h2>
-<p align="center">
+<h2>📊 GitHub Stats & Streak</h2>
+<p>
   <img src="https://github-readme-stats.vercel.app/api?username=patihpyyt&theme=tokyonight&show_icons=true&hide_border=false" alt="GitHub Stats" />
   <br/><br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=patihpyyt&theme=tokyonight&hide_border=false&layout=compact&cache_seconds=1800&hide=html,css,javascript,jupyter%20notebook" alt="Top Languages" />
