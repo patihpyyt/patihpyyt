@@ -1,7 +1,7 @@
 
 <h1>Hey 👋 What's Up?</h1>
 
-<h3>Hi 👋, I'm M. Iqbal Fatih</h3>
+<h3>Hi 👋, I'm M. Iqbal Patih</h3>
 <p >
 <strong>Frontend Developer in the making. 🚀</strong><br>
 Passionate about transforming ideas into interactive web experiences. Currently developing responsive projects to level up my engineering skills and prepare for real-world challenges.
@@ -73,9 +73,6 @@ Passionate about transforming ideas into interactive web experiences. Currently 
   <img src="https://visitcount.itsvg.in/api?id=patihpyyt&icon=9&color=11" alt="Visitor Count" />
 </p>
 
-<p >
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
-</p>
 
 <p >
   <img src="https://raw.githubusercontent.com/patihpyyt/patihpyyt/output/github-contribution-grid-snake.gif" alt="GitHub Contributions Grid" />
